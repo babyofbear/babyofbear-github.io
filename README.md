@@ -8,4 +8,4 @@ To do list
 - clean my brain
 
 
-![cat with me](스크린샷(1).png)
+![cat with me](1.png)
